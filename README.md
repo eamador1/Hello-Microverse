@@ -111,4 +111,4 @@ Your comments and support will be greatly appreciated!
 
 ## 📝 License <a name="license"></a>
 
-This project is MIT licensed.
+This project is [MIT](./LICENSE) licensed
