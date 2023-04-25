@@ -35,8 +35,6 @@ HTML and CSS
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[HTML file]**
 - **[CSS file]**
 - **[Linters installed: Lighthouse, Webhint, Stylelint and node_modules]**
@@ -90,6 +88,7 @@ You can deploy this project using: Web host provider
 ## 👥 Authors <a name="authors"></a>
 
 👤 Erwin E Amador
+github: https://github.com/eamador1
 
 ## 🔭 Future Features <a name="future-features"></a>
 
